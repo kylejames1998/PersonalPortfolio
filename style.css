@@ -1,3 +1,4 @@
+/* this styles the h1 headers with different fonts, sizes, and colors */
 h1 {
     font-size: 300%;
     color: white;
@@ -5,35 +6,39 @@ h1 {
     text-align: center;
     font-family: sans-serif;
 
-} /* this styles the h1 headers with different fonts, sizes, and colors */
+} 
 
+/* this styles the p elements with a different font */
 p {
     font-size: medium;
     font-family: sans-serif;
 
-}/* this styles the p elements with a different font */
+}
 
+/* this styles all h2 elements with different fonts, sizes, and colors */
 h2 {
     font-size: x-large;
     color: blueviolet;
     font-family: sans-serif;
 
-} /* this styles all h2 elements with different fonts, sizes, and colors */
+} 
 
+/* this styles the h3 header element with a different font and color */
 h3 {
     font-family: sans-serif;
     color: blueviolet;
-} /* this styles the h3 header element with a different font and color */
+} 
 
+/* this styles the bulleted list with a different font and size */
 ul {
     font-family: sans-serif;
     font-size: medium
-} /* this styles the bulleted list with a different font and size */
+} 
 
+/* this styles the footer element with different background colors and aligns the text in the middle */
 footer {
     text-align: center;
     font-family: sans-serif;
     background-color: blueviolet;
     color: white;
-} /* this styles the footer element with different background colors and aligns the text in the middle */
-
+} 

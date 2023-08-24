@@ -1,7 +1,7 @@
 h1 {
     font-size: 300%;
     color: white;
-    background-color: black;
+    background-color: blueviolet;
     text-align: center;
     font-family: sans-serif;
 
@@ -33,7 +33,7 @@ ul {
 footer {
     text-align: center;
     font-family: sans-serif;
-    background-color: black;
+    background-color: blueviolet;
     color: white;
 } /* this styles the footer element with different background colors and aligns the text in the middle */
 

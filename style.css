@@ -5,35 +5,35 @@ h1 {
     text-align: center;
     font-family: sans-serif;
 
-}
+} /* this styles the h1 headers with different fonts, sizes, and colors */
 
 p {
     font-size: medium;
     font-family: sans-serif;
 
-}
+}/* this styles the p elements with a different font */
 
 h2 {
     font-size: x-large;
     color: blueviolet;
     font-family: sans-serif;
 
-}
+} /* this styles all h2 elements with different fonts, sizes, and colors */
 
 h3 {
     font-family: sans-serif;
     color: blueviolet;
-}
+} /* this styles the h3 header element with a different font and color */
 
 ul {
     font-family: sans-serif;
     font-size: medium
-}
+} /* this styles the bulleted list with a different font and size */
 
 footer {
     text-align: center;
     font-family: sans-serif;
     background-color: black;
     color: white;
-}
+} /* this styles the footer element with different background colors and aligns the text in the middle */
 
